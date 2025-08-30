@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "timeextraminer:raw_time_cristal"
+    }
+  },
+  "result": {
+    "item": "timeextraminer:temporal_seeds",
+    "count": 3
+  }
+}

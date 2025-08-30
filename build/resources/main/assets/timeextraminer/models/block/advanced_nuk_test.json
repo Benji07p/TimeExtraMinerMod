@@ -1,0 +1,8 @@
+{
+  "parent": "timeextraminer:custom/advanced_chest",
+  "textures": {
+    "all": "timeextraminer:blocks/advancednuclearchestmodel",
+    "particle": "timeextraminer:blocks/advancednuclearchestmodel",
+    "texture": "timeextraminer:blocks/advancednuclearchestmodel"
+  }
+}

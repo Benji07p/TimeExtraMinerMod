@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "timeextraminer:time_cubes"
+    },
+    "1": {
+      "item": "timeextraminer:time_cubes"
+    },
+    "2": {
+      "item": "timeextraminer:time_cubes"
+    },
+    "3": {
+      "item": "timeextraminer:time_cubes"
+    },
+    "4": {
+      "item": "timeextraminer:time_cubes"
+    },
+    "5": {
+      "item": "timeextraminer:time_cubes"
+    },
+    "6": {
+      "item": "timeextraminer:time_cubes"
+    },
+    "7": {
+      "item": "timeextraminer:time_cubes"
+    },
+    "8": {
+      "item": "timeextraminer:time_cubes"
+    }
+  },
+  "result": {
+    "item": "timeextraminer:times_block",
+    "count": 1
+  }
+}

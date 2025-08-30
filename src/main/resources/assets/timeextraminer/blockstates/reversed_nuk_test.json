@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "timeextraminer:block/reversed_nuk_test"
+    }
+  }
+}

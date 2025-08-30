@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "timeextraminer:hyper_cubes"
+    },
+    "3": {
+      "item": "timeextraminer:hyper_cubes"
+    },
+    "4": {
+      "item": "timeextraminer:hyper_cubes"
+    },
+    "5": {
+      "item": "timeextraminer:hyper_cubes"
+    },
+    "7": {
+      "item": "timeextraminer:hyper_cubes"
+    }
+  },
+  "result": {
+    "item": "minecraft:nether_star",
+    "count": 2
+  }
+}

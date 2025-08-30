@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "timeextraminer:times_block"
+    },
+    "2": {
+      "item": "timeextraminer:times_block"
+    },
+    "3": {
+      "item": "timeextraminer:times_block"
+    },
+    "4": {
+      "item": "timeextraminer:times_block"
+    },
+    "5": {
+      "item": "timeextraminer:times_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:dragon_egg",
+    "count": 1
+  }
+}

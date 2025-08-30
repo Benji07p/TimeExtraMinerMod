@@ -1,0 +1,9 @@
+JVM:         C:\Program Files\Pylo\MCreator\jdk\bin\java.exe
+JVM Args:    
+Run Args:    "--strip", "--input", "C:\Users\JESSICA\MCreatorWorkspaces\timeextraminer\build\fg_cache\mcp\1.18.2-20220404.173914\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\AccessTransformer\output.jar", "--output", "C:\Users\JESSICA\MCreatorWorkspaces\timeextraminer\build\fg_cache\mcp\1.18.2-20220404.173914\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\SideStripper\output.jar", "--data", "C:\Users\JESSICA\MCreatorWorkspaces\timeextraminer\build\fg_cache\mcp\1.18.2-20220404.173914\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\SideStripper\string_data.sas"
+Classpath:   C:\Users\JESSICA\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\mergetool\1.1.6\mergetool-1.1.6-fatjar.jar
+Working Dir: C:\Users\JESSICA\MCreatorWorkspaces\timeextraminer\build\fg_cache\mcp\1.18.2-20220404.173914\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\SideStripper
+Main Class:  net.minecraftforge.mergetool.ConsoleMerger
+Input:  C:\Users\JESSICA\MCreatorWorkspaces\timeextraminer\build\fg_cache\mcp\1.18.2-20220404.173914\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\AccessTransformer\output.jar
+Output: C:\Users\JESSICA\MCreatorWorkspaces\timeextraminer\build\fg_cache\mcp\1.18.2-20220404.173914\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\SideStripper\output.jar
+Data:   C:\Users\JESSICA\MCreatorWorkspaces\timeextraminer\build\fg_cache\mcp\1.18.2-20220404.173914\joined\98c45c2e2dab077b29cf717c091f2e2d8b289f21\SideStripper\string_data.sas

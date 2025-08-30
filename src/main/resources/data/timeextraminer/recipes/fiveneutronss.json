@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "timeextraminer:fourneutrons"
+    },
+    {
+      "item": "timeextraminer:neutrons"
+    }
+  ],
+  "result": {
+    "item": "timeextraminer:fiveneutrons",
+    "count": 1
+  }
+}

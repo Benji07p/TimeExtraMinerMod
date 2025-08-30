@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "timeextraminer:newtons_nugget"
+    },
+    "1": {
+      "item": "timeextraminer:newtons_nugget"
+    },
+    "2": {
+      "item": "timeextraminer:newtons_nugget"
+    },
+    "3": {
+      "item": "timeextraminer:newtons_nugget"
+    },
+    "4": {
+      "item": "timeextraminer:newtons_nugget"
+    },
+    "5": {
+      "item": "timeextraminer:newtons_nugget"
+    },
+    "6": {
+      "item": "timeextraminer:newtons_nugget"
+    },
+    "7": {
+      "item": "timeextraminer:newtons_nugget"
+    },
+    "8": {
+      "item": "timeextraminer:newtons_nugget"
+    }
+  },
+  "result": {
+    "item": "timeextraminer:newtons_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "timeextraminer:custom/time_chest",
+  "textures": {
+    "all": "timeextraminer:blocks/reversenuclearchestmodel",
+    "particle": "timeextraminer:blocks/reversenuclearchestmodel",
+    "texture": "timeextraminer:blocks/reversenuclearchestmodel"
+  }
+}

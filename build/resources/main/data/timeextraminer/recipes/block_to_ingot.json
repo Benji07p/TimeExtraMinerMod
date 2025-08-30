@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "timeextraminer:newtons_block"
+    }
+  ],
+  "result": {
+    "item": "timeextraminer:newtons_ingot",
+    "count": 9
+  }
+}

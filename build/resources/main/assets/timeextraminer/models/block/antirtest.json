@@ -1,0 +1,8 @@
+{
+  "parent": "timeextraminer:custom/antimatter",
+  "textures": {
+    "all": "timeextraminer:blocks/attimatter",
+    "particle": "timeextraminer:blocks/attimatter",
+    "0": "timeextraminer:blocks/attimatter"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "timeextraminer:blocks/advanced2",
+    "up": "timeextraminer:blocks/advanced2",
+    "north": "timeextraminer:blocks/advanced2",
+    "east": "timeextraminer:blocks/advanced2",
+    "south": "timeextraminer:blocks/advanced2",
+    "west": "timeextraminer:blocks/advanced2",
+    "particle": "timeextraminer:blocks/advanced2"
+  }
+}

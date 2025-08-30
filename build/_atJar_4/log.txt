@@ -1,0 +1,7 @@
+Java Launcher: C:\Program Files\Pylo\MCreator\jdk\bin\java.exe
+Arguments: '--inJar, C:\Users\JESSICA\MCreatorWorkspaces\timeextraminer\build\fg_cache\net\minecraftforge\forge\1.18.2-40.1.0\forge-1.18.2-40.1.0-injected.jar, --outJar, C:\Users\JESSICA\MCreatorWorkspaces\timeextraminer\build\fg_cache\net\minecraftforge\forge\1.18.2-40.1.0_mapped_official_1.18.2\forge-1.18.2-40.1.0_mapped_official_1.18.2.jar, --logFile, accesstransform.log, --atFile, C:\Users\JESSICA\MCreatorWorkspaces\timeextraminer\src\main\resources\META-INF\accesstransformer.cfg, --atFile, C:\Users\JESSICA\MCreatorWorkspaces\timeextraminer\build\_atJar_4\parent_at.cfg'
+Classpath:
+ - C:\Users\JESSICA\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.0.7\accesstransformers-8.0.7-fatjar.jar
+Working directory: C:\Users\JESSICA\MCreatorWorkspaces\timeextraminer\build\_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================

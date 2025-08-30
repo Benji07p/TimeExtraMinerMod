@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "timeextraminer:block/alchemical_ore"
+    }
+  }
+}

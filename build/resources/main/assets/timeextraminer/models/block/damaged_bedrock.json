@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "timeextraminer:blocks/weak_bedrock",
+    "up": "timeextraminer:blocks/weak_bedrock",
+    "north": "timeextraminer:blocks/weak_bedrock",
+    "east": "timeextraminer:blocks/weak_bedrock",
+    "south": "timeextraminer:blocks/weak_bedrock",
+    "west": "timeextraminer:blocks/weak_bedrock",
+    "particle": "timeextraminer:blocks/weak_bedrock"
+  }
+}

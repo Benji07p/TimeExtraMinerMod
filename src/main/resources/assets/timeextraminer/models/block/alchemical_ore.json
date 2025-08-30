@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "timeextraminer:blocks/orealchemical",
+    "up": "timeextraminer:blocks/orealchemical",
+    "north": "timeextraminer:blocks/orealchemical",
+    "east": "timeextraminer:blocks/orealchemical",
+    "south": "timeextraminer:blocks/orealchemical",
+    "west": "timeextraminer:blocks/orealchemical",
+    "particle": "timeextraminer:blocks/orealchemical"
+  }
+}

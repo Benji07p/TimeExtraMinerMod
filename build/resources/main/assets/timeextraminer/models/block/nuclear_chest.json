@@ -1,0 +1,8 @@
+{
+  "parent": "timeextraminer:custom/copper_chest",
+  "textures": {
+    "all": "timeextraminer:blocks/leadedchestmodel",
+    "particle": "timeextraminer:blocks/leadedchestmodel",
+    "texture": "timeextraminer:blocks/leadedchestmodel"
+  }
+}

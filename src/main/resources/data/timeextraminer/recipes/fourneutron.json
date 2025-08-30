@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "timeextraminer:neutrons"
+    },
+    "1": {
+      "item": "timeextraminer:neutrons"
+    },
+    "2": {
+      "item": "timeextraminer:neutrons"
+    },
+    "3": {
+      "item": "timeextraminer:neutrons"
+    }
+  },
+  "result": {
+    "item": "timeextraminer:fourneutrons",
+    "count": 1
+  }
+}

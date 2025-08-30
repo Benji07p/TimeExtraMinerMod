@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "timeextraminer:times_block"
+    },
+    "1": {
+      "item": "timeextraminer:times_block"
+    },
+    "2": {
+      "item": "timeextraminer:times_block"
+    },
+    "3": {
+      "item": "timeextraminer:times_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:bedrock",
+    "count": 1
+  }
+}

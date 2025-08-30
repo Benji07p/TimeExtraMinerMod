@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TimeCubes"
+      },
+      {
+        "value": "CUSTOM:TimeCubes"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TimeCubes"
+      },
+      {
+        "value": "CUSTOM:TimeCubes"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HyperCubes"
+    },
+    "name": "cubesto_hyper_cubes",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "timeextraminer:blocks/timewheat1",
+    "particle": "timeextraminer:blocks/timewheat1"
+  }
+}
